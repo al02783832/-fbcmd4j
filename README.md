@@ -6,7 +6,7 @@ Instalación
 
 Clonar el repositorio
 
-git clone https://github.com/GuadarramaDelAngel-Jorge/-fbcmd4j.git
+git clone // mi repositorio //
 Importar 
 
 File -> Import -> Existing Projects into Workspace.
@@ -56,8 +56,7 @@ Créditos
 
 Código base desarrollado a lo largo del curso por:
 
-Jose Manuel Lopez Lujan, MIT
-https://github.com/jm66/CS13303
+
 Desarrollado por:
 Miguel Angel Grimaldo Solis 
 Licencia
