@@ -1,64 +1,18 @@
-FBcmd4J
+# fbcmd4j
+Facebook CLI cliente
 
-Evidencia final.
+# Instalación
+Crear una cuenta en GitHub como usuario normal o estudiante https://education.github.com/ con tu cuenta de correo. Instalar GitHub para Escritorio o Git en línea de comando. Instalar un IDE de acuerdo a los mencionados (Eclipse, NetBeans, IntelliJIDEA).
 
-Instalación
+# Uso
+El participante aplicará conocimientos obtenidos en el curso para crear un cliente de Facebook en línea de comando en Java con Facebook4J y otras librerías de código libre, donde pueda realizar cuatro operaciones básicas: obtener el newsfeed, obtener el wall y poder guardar la salida en un archivo; publicar estado y publicar un link. Además de configuración de la aplicación en Java y en Facebook.
 
-Clonar el repositorio
+# Creditos
+Jose Manuel Lopez Lujan
 
-git clone // mi repositorio //
-Importar 
+jm66
 
-File -> Import -> Existing Projects into Workspace.
- seleccionar la carpeta.
-Exportar .jar
+Miguel Angel Grimaldo Solis
 
- Eclipse.
-File -> Export -> Runnable JAR File -> Next.
-Seleccionar la clase que tiene el método main.
-Extract required libraries into generated JAR.
-Finish.
-Ejecutar .jar
-
-Abrir la carpeta 
-copiar el archivo JAR a 
-C:\Program Files\Java\jdk1.8.0_144\bin.
-Abrir la terminal cmd
-Navegar a la carpeta fbcmd4j/bin donde se encuentra el archivo fbcmd4j.jar.
-Ejecutar el comando java -jar fbcmd4j.jar.
-
-Uso
-
-Configurar tokens
-
-Seleccionar la opción 0 Configurar tokens.
-Escribir identificador de aplicación.
-Escribir clave secreta de aplicación.
-Obtener el NewsFeed
-
-Seleccionar la opción 1 NewsFeed.
-Escribir 'Si' en caso de querer guardar los posts en un archivo.
-Escribir el número de posts a guardar.
-Obtener el Wall
-
-Seleccionar la opción 2 Wall.
-Escribir 'Si' en caso de querer guardar los posts en un archivo.
-Escribir el número de posts a guardar.
-Publicar un Estado
-
-Seleccionar la opción 3 Publicar Estado.
-Escribir el estado deseado.
-Publicar un Link
-
-Seleccionar la opción 4 Publicar Link.
-Escribir el link deseado.
-Créditos
-
-Código base desarrollado a lo largo del curso por:
-
-
-Desarrollado por:
-Miguel Angel Grimaldo Solis 
-Licencia
-
-El código está disponible bajo la licencia MIT. Consulte el archivo LICENSE en la raíz del proyecto para más información.
+# License
+MIT License.
